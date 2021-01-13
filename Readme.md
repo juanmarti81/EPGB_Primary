@@ -2,7 +2,7 @@
 
 ## **Instalación:**
 
-1. Instalar dependencias utilizando "pip install requirements.txt"
+1. Instalar dependencias utilizando "pip install -r requirements.txt"
 
 2. Crear archivo config.py
 
